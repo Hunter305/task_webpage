@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+.top{
+    padding-bottom: 15%;
+}
+.name{
+    padding-top: 10%;
+}
+.nav{
+    padding-left: 23.75rem;
+}
+.des{
+    line-height: 2;
+}
+img{
+    width:28.75rem;
+    height: 35rem;
+}
+.mid{
+    padding-top: 5%;
+}
+.details{
+    text-align: left;
+}
+.about {
+    width: 70%;
+}
+.p2{
+    width:77%   
+}
+.butt{
+    margin-top: 5.625rem;
+}
+#quote{
+    background-color: black;
+    padding-top: 3.123rem ;
+    padding-bottom: 3.123rem;
+    margin-top: 3.123rem;
+
+}
+#qusen{
+    color:white;
+}
